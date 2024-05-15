@@ -14,6 +14,12 @@ header {
     text-align: center;
 }
 
+header img {
+    height: auto;
+    width: 150px; /* or whatever size fits best */
+    margin: 10px 0;
+}
+
 header nav ul {
     list-style: none;
     padding: 0;
